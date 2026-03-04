@@ -1,3 +1,9 @@
+/*  Nama File   : MGaris.java 
+    Deskripsi   : berisi atribut dan method dalam class Garis
+    Pembuat     : Farhan Dwiyan Akbar
+    Tanggal     : 04 - 03 - 2026
+*/
+
 package Pertemuan2;
 
 public class MGaris {
