@@ -1,7 +1,7 @@
 /*  Nama File   : Matkul.java 
-    Deskripsi   : berisi atribut dan method dalam class Garis
+    Deskripsi   : berisi atribut dan method dalam class Matkul
     Pembuat     : Farhan Dwiyan Akbar
-    Tanggal     : 04 - 03 - 2026
+    Tanggal     : 05 - 03 - 2026
 */
 
 package Pertemuan3;
