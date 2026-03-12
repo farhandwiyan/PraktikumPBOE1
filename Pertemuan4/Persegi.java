@@ -1,3 +1,9 @@
+/*  Nama File   : Persegi.java 
+    Deskripsi   : berisi atribut dan method dalam class Persegi
+    Pembuat     : Farhan Dwiyan Akbar
+    Tanggal     : 12 - 03 - 2026
+*/
+
 package Pertemuan4;
 
 public class Persegi extends BangunDatar {

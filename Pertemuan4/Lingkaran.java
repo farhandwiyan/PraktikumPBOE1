@@ -1,3 +1,9 @@
+/*  Nama File   : Lingkaran.java 
+    Deskripsi   : berisi atribut dan method dalam class Lingkaran
+    Pembuat     : Farhan Dwiyan Akbar
+    Tanggal     : 12 - 03 - 2026
+*/
+
 package Pertemuan4;
 
 public class Lingkaran extends BangunDatar{
