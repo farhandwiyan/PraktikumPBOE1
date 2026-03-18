@@ -73,7 +73,13 @@ public class Pegawai {
     // method bantuan untuk menghitung tunjangan (karena tunjangan memerlukan TMT dalam tahun)
     public int getHitungMasaKerja(int tahunTMT){
         // asumsi menghitung masa kerja untuk tahun 2026
-        return 2026 - tahunTMT;
+        int masaKerja = 2026 - tahunTMT;
+        
+        if (masaKerja >= 0){
+            return masaKerja;
+        } else {
+            return 0;
+        }
     }
 
     public void printInfo() {
