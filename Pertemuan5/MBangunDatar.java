@@ -19,6 +19,7 @@ public class MBangunDatar {
         // L1.zoomIn();
         L2.zoomIn();
         L2.zoomOut();
-        
+        L1.getLuas();
+
     }  
 }

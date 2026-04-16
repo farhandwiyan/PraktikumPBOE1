@@ -23,7 +23,7 @@ public class AngkaSial {
             System.out.println(ase.getMessage());
             System.out.println("hati-hati memasukkan angka!!");
         } finally {
-            System.out.println("Program selesai...");
+            System.out.println("Program akan selesai...");
         }
     }
 }
