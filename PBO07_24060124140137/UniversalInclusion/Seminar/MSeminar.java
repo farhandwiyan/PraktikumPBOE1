@@ -33,6 +33,7 @@ public class MSeminar {
         seminar.registrasi(m4);
         seminar.registrasi(m5);
 
+        System.out.println("=== MENAMPILKAN PESERTA SEMINAR ===");
         seminar.tampilPeserta();
 
         System.out.println("\nJumlah Peserta Mahasiswa: " + seminar.countMahasiswa());
