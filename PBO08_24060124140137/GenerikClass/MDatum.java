@@ -1,3 +1,9 @@
+/*  Nama File   : MDatum.java 
+    Deskripsi   : Main class untuk menguji kelas Datum
+    Pembuat     : Farhan Dwiyan Akbar - 24060124140137
+    Tanggal     : 30 - 04 - 2026
+*/
+
 package PBO08_24060124140137.GenerikClass;
 
 public class MDatum {
