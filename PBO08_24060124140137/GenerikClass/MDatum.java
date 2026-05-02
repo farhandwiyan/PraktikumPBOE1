@@ -8,8 +8,13 @@ package PBO08_24060124140137.GenerikClass;
 
 public class MDatum {
     public static void main(String[] args) {
-        Kucing A = new Anggora("Timtam", 5.5);
-        Datum<Anabul> anu = new Datum<>();
+        // kamus
+        Kucing A;
+        Datum<Anabul> anu;
+
+        // algoritma
+        A = new Anggora("Timtam", 5.5);
+        anu = new Datum<>();
 
         System.out.println("\nTes 1");
         anu.setIsi(A);  // Anggora
