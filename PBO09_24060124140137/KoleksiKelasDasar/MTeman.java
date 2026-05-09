@@ -1,5 +1,5 @@
 /*  Nama File   : MTeman.java 
-    Deskripsi   : main program untuk kelas teman 
+    Deskripsi   : main class untuk kelas teman 
     Pembuat     : Farhan Dwiyan Akbar - 24060124140137
     Tanggal     : 25 - 04 - 2026
 */
