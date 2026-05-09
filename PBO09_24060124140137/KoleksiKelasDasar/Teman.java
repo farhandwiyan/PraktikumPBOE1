@@ -1,7 +1,7 @@
 /*  Nama File   : Teman.java 
     Deskripsi   : Kelas teman menggunakan ArrayList
     Pembuat     : Farhan Dwiyan Akbar - 24060124140137
-    Tanggal     : 25 - 04 - 2026
+    Tanggal     : 07 - 05 - 2026
 */
 
 package PBO09_24060124140137.KoleksiKelasDasar;
